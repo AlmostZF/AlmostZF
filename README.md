@@ -1,6 +1,6 @@
-## Oi! eu sou o Guilherme
-- 🔭 Atualmente estou estuando hacking
-- 🌱 Cursando Tecnico em Inrformática 
+## Ola! 
+- 🔭 Atualmente estou estudando hacking
+- 🌱 Cursando TI 
 - 💬 Contate-me no e-mail: guilhermegarcia487@gmail.com
 
 <div>
