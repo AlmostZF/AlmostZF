@@ -26,9 +26,12 @@
    
   <a href= "https://www.reddit.com/user/zereref" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href= "https://www.instagram.com/guieu.axx/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href= "https://hackerone.com/zereref?type=user" target="_blank"> <img src="https://img.shields.io/badge/Hackerone-%23333?style=for-the-badge&logo=hackerone&logoColer=white" target="_blank"></a> 
 </div>
+  
+  ## 🐱‍👤 Caso queira ver meus reports:
 
- <div aling="cente">
+  <a href= "https://hackerone.com/zereref?type=user" target="_blank"> <img src="https://img.shields.io/badge/Hackerone-%23333?style=for-the-badge&logo=hackerone&logoColer=white" target="_blank"></a> 
+
+ <div aling= "cente">
   Antes de sair lembre-se: Beba água e se matenha hidratado👍🏿✔
   </div>
