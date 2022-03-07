@@ -1,5 +1,5 @@
 ### Ola!
-- 🔭 Atualmente estou estudando hacking
+- 🔭 estudo hacking no tempo livre
 - 🌱 Cursando TI 
 - 💬 Contate-me no e-mail: guilhermegarcia487@gmail.com
 
