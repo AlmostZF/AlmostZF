@@ -1,36 +1,21 @@
-### Ola!
-- 🌱 Cursando TI 
-- 💬 Contate-me no e-mail: guilhermegarcia487@gmail.com
-
-<div align="left">
-  <a href="https://github.com/AlmostZF">
-  <img height="160cm"src="https://github-readme-stats.vercel.app/api?username=AlmostZF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmostZF&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## Hello!
+Welcome to my profile! I'm Guilherme, a curious individual who loves technology and seeks to enhance their knowledge
   
 <div style="display: inline_block"><br>
   
-  ## 👨🏿‍💻Linguagens que conheço:
+  ## My experiences:
   
-  <img align="center" alt="ZF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ZF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  align="center" alt="ZF-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="ZF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ZF-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="ZF-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="ZF-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="ZF-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="ZF-Gif "height="150" width="150" src="https://pa1.narvii.com/6751/7e947baa8368b886544de4a02e0883de8ba66ee7_hq.gif">
 </div>
+</br>
  
   
  <div>
-   
-   ## 🗺 Redes que gosto de usar:
-   
-  <a href= "https://www.reddit.com/user/zereref" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
-  <a href= "https://www.instagram.com/guieu.axx/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   Connect With Me: 
+   [Linkedin](https://www.linkedin.com/in/GuilhermeVGarcia/)
 </div>
   
-
- <div aling= "cente">
-  Antes de sair lembre-se: Beba água e se matenha hidratado👍🏿✔
-  </div>
