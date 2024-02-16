@@ -14,9 +14,3 @@ Welcome to my profile! I'm Guilherme, a curious individual who loves technology 
 </br>
  
   
- <div>
-   Connect With Me: 
-   
-   [Linkedin](https://www.linkedin.com/in/GuilhermeVGarcia/)
-</div>
-  
