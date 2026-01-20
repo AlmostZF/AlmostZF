@@ -14,8 +14,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 <img alt="TypeScript" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-<br>
-
 ## Backend
 
 <img alt="NodeJS" height="40" width="40"
