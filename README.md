@@ -1,29 +1,47 @@
 <div align="center">
- Welcome to my profile! I'm Guilherme, a full stack developer passionate about technology and continuous learning
- </br>
+  <h1>Olá, eu sou o Guilherme! 👋</h1>
+  <p><strong>Full Stack Developer | Apaixonado por tecnologia e aprendizado contínuo</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/SEU_USUARIO">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:seu-email@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
-  
+
+---
+
+### 🚀 Sobre Mim
+
+Sou um desenvolvedor apaixonado por explorar tecnologias emergentes e integrá-las em soluções criativas. Tenho um interesse especial por **Segurança da Informação** e estou sempre em busca de aprender mais para construir aplicações cada vez mais robustas e seguras. Acredito que o aprendizado contínuo é a única constante na nossa área!
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### **Frontend**
 <div align="center">
-
-## Frontend
-
-<img alt="Angular" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-<img alt="JavaScript" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-## Backend
-
-<img alt="NodeJS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="CSharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img alt="MySQL" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Docker" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
+#### **Backend & Infra**
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Já que chegou até aqui lembre-se:</strong> beba água 🥤</p>
+</div>
